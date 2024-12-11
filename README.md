@@ -1,4 +1,5 @@
-Abstract— This paper reports a reference-less frequencydetector-less single-loop bang-bang clock and data recovery
+Paper Abstract:
+This paper reports a reference-less frequencydetector-less single-loop bang-bang clock and data recovery
 (BBCDR) circuit featuring wide frequency acquisition. We use
 a current-starved ring oscillator controlled by a 5-bit resistive
 digital-to-analog converter to maintain quarter-rate operation,
